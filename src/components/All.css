@@ -13,7 +13,7 @@ h3{
     right: 116px;
 }
 #navbar{
-    background-color: #02201f;;
+    background-color: #02201f;
 }
 
 #con{
@@ -29,18 +29,15 @@ h3{
     color:white;
     border-radius: 3px;
     position: relative;
-    left:848px;
+    left:986px;
     cursor: pointer;
-    top: 23px;
+    top: -21px;
 }
 
 /* buttons*/
 .button-group {
-    position: relative;
-    left: 231px;
-    bottom: 47px;
-    display: inline;
-  }
+    background-color: #02201f;   
+}
   
   #b {
    
