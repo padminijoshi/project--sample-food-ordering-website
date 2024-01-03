@@ -1,0 +1,156 @@
+  [
+    {
+      "name": "Boilded Eggs",
+      "price": "10",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/eggs.jpg",
+      "type": "Breakfast"
+      
+    },
+    {
+      "name": "RAMEN",
+      "price": "25",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/ramen.jpg",
+      "type": "Lunch"
+      
+    },
+    {
+      "name": "PANEER",
+      "price": "45",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/paneer.jpg",
+      "type": "Dinner"
+      
+    },
+    {
+      "name": "CAKE",
+      "price": "18",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/cake.jpg",
+      "type": "Breakfast"
+      
+    },
+    {
+      "name": "BURGER",
+      "price": "23",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/burger.jpg",
+      "type": "Lunch"
+      
+    },
+    {
+      "name": "PANCAKE",
+      "price": "25",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/pancake.jpg",
+      "type": "Dinner"
+      
+    },
+    {
+      "name": "Wada",
+      "price": 35,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/breakfast/vada.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Bonda",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/breakfast/bonda.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Dosa",
+      "price": 30,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/breakfast/dosa.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Idly",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/breakfast/idli.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Poori",
+      "price": 10,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/breakfast/poori.png",
+      "type": "Breakfast"
+    },
+    {
+      "name": "Grilled Chicken",
+      "price": 45,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/dinner/chicken.png",
+      "type": "Dinner"
+    },
+    {
+      "name": "Chole Bature",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/Lunch/cholebature.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Naan",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/Lunch/naan.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Rajma Chawal",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/Lunch/rajmachawal.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Thaali",
+      "price": 23,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/Lunch/thaali.jpeg",
+      "type": "Lunch"
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/dinner/chickenbiryani.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/dinner/Vegbiryani.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Roti",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/dinner/roti.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Noodles",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/dinner/noodles.jpeg",
+      "type": "Dinner"
+    },
+    {
+      "name": "Tomato Rice",
+      "price": 30,
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "image": "images/Lunch/tomato.jpg",
+      "type": "Lunch"
+    }
+
+]

@@ -1,0 +1,49 @@
+#div-1{
+    background-color: #5a1742;;
+    margin: 1px 12px;
+    display: flex;
+    padding: 16px 4px;
+    border-radius: 11px 
+}
+.btn-primary{
+   
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-size: 12px;
+    background-color: #521e50;;
+    border-radius: 9px;
+    padding: 5px 18px;
+    border: 2px solid #9370DB;
+    cursor:pointer;
+    margin: 4px 7px;
+}
+.btn-primary-1{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    background-color: #521e50;;
+    font-size: 12px;
+    border: 2px solid #9370DB;
+    cursor:pointer;
+    border-radius: 9px;
+    padding: 5px 20px;
+    margin: 9px 33px;
+    
+}
+.btn-primary-2{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    background-color: #521e50;;
+    font-size: 12px;
+    border: 2px solid #9370DB;
+    cursor:pointer;
+    border-radius: 9px;
+    padding: 5px 20px;
+}
+.item-details{
+    margin: 6px 5px;
+}
+.counter__output{
+    position: relative;
+    right: 18px;
+    top: 15px;
+}

@@ -1,0 +1,60 @@
+#navbar {
+    display: flex;
+    align-items: center;
+   
+}
+h3{
+    color:white;
+    cursor: pointer;
+    font-family: 'Dancing Script', cursive;
+    font-size: 38px;
+    position: relative;
+    top: 22px;
+    right: 116px;
+}
+#navbar{
+    background-color: #02201f;;
+}
+
+#con{
+    display: flex;
+    color: white;
+    margin: 10px;
+    flex-wrap: wrap;
+    
+}  
+#search{
+    background-color: #02201f;
+    border: 2px solid #B80000;
+    color:white;
+    border-radius: 3px;
+    position: relative;
+    left:848px;
+    cursor: pointer;
+    top: 23px;
+}
+
+/* buttons*/
+.button-group {
+    position: relative;
+    left: 231px;
+    bottom: 47px;
+    display: inline;
+  }
+  
+  #b {
+   
+    cursor: pointer;
+    border: none;
+    background-color: #b8001f;
+    font-family: 'Nunito', sans-serif;
+    padding: 5px 20px;
+    margin: -16px 37px;
+    color: white;
+    border-radius: 9px;
+  }
+
+button.active {
+    background-color: #007bff; /* Change the color as needed */
+    color: #fff;
+  }
